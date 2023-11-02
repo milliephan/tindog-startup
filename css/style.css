@@ -27,12 +27,6 @@
   border-radius: 50%;
 }
 
-.logo-flex {
-  display: flex;
-  justify-content: space-evenly;
-}
-
-.logo-flex img {
-  flex-basis: 1;
+.row img {
   height: 30px;
 }
